@@ -124,14 +124,14 @@ def buttons(button):
 
 if __name__ == "__main__":
     lcd = LogitechLcd('HomeControl Client')
-    sprite_init = 'init.png'
-    sprite_on = 'on.png'
-    sprite_off = 'off.png'
-    sprite_heating = 'preheating.png'
-    sprite_lights = 'lights.png'
-    sprite_coffe1 = 'coffee1.png'
-    sprite_coffe2 = 'coffee2.png'
-    sprite_coffe3 = 'coffee3.png'
+    sprite_init = 'images/init.png'
+    sprite_on = 'images/on.png'
+    sprite_off = 'images/off.png'
+    sprite_heating = 'images/preheating.png'
+    sprite_lights = 'images/lights.png'
+    sprite_coffe1 = 'images/coffee1.png'
+    sprite_coffe2 = 'images/coffee2.png'
+    sprite_coffe3 = 'images/coffee3.png'
     global mode
     mode = 'senseo'
 
