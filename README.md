@@ -14,6 +14,7 @@ The Server runs on a Raspberry Pi, which is connected to a 433MHz Transmitter to
 
 ### Other Info
 * [This is the source of the code for switching the sockets](http://pastebin.com/aRipYrZ6)
+* [Source of the Logitech Display API for Python](http://d.tpdn.kim/2014/12/23/logicool-lcd-python)
 
 ## Client
 The client is only tested on Windows with a Logitech G510s monochrome display
